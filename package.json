@@ -1,0 +1,27 @@
+{
+  "name": "bs430",
+  "version": "1.0.0",
+  "description": "Machine driver for bs430 lab machine",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HISMalawi/BS430.git"
+  },
+  "keywords": [
+    "BS430"
+  ],
+  "author": "Hopson Gausi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HISMalawi/BS430/issues"
+  },
+  "homepage": "https://github.com/HISMalawi/BS430#readme",
+  "dependencies": {
+    "node-rest-client": "^3.1.1",
+    "path": "^0.12.7",
+    "simple-hl7": "^3.2.4"
+  }
+}
