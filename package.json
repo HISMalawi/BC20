@@ -1,24 +1,24 @@
 {
-  "name": "bs430",
+  "name": "bc20",
   "version": "1.0.0",
-  "description": "Machine driver for bs430 lab machine",
+  "description": "Machine driver for bc20 lab machine",
   "main": "app.js",
   "scripts": {
     "test": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HISMalawi/BS430.git"
+    "url": "git+https://github.com/HISMalawi/BC20.git"
   },
   "keywords": [
-    "BS430"
+    "BC20"
   ],
   "author": "Hopson Gausi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HISMalawi/BS430/issues"
+    "url": "https://github.com/HISMalawi/BC20/issues"
   },
-  "homepage": "https://github.com/HISMalawi/BS430#readme",
+  "homepage": "https://github.com/HISMalawi/BC20#readme",
   "dependencies": {
     "node-rest-client": "^3.1.1",
     "path": "^0.12.7",
